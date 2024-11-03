@@ -1,4 +1,4 @@
-# CS102B - HW#3
+# CS102 - HW#3
 
 Due 09/28/24 at 11:59PM.  
 Late submissions are subject to a 20% late penalty.
